@@ -9,7 +9,7 @@ gem "bootsnap", require: false
 gem "good_migrations"
 gem "pg", "~> 1.1"
 gem "pgcli-rails"
-gem "puma", "~> 5.0"
+gem "puma", "~> 5.6"
 gem "rack-canonical-host"
 gem "rails", "~> 7.0.4"
 gem "stimulus-rails"
